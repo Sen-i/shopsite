@@ -1,0 +1,24 @@
+*{
+	box-sizing:border-box;
+	font-family: "Times New Roman", times, sans-serif;
+}
+body{
+	font-size:62.5%;
+	margin: 0;
+	padding: 0;
+}
+.topbarcon{
+	display: flex;
+	justify-content:flex-end;
+	align-items: center;
+	font-size:4rem;
+}
+.info{
+	display: flex;
+	align-items: center;
+	font-size:4rem;
+}
+.numb{
+	margin-right:auto;
+	font-size:4rem;
+}
