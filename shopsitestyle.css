@@ -11,14 +11,38 @@ body{
 	display: flex;
 	justify-content:flex-end;
 	align-items: center;
-	font-size:4rem;
+	font-size:1.5rem;
+	background-color:#d4cac9;
+}
+.numb{
+	margin-right:auto;
+	font-size:1.5rem;
+	padding: 15px;
 }
 .info{
 	display: flex;
 	align-items: center;
-	font-size:4rem;
+	font-size:1.5rem;
 }
-.numb{
-	margin-right:auto;
-	font-size:4rem;
+.acc{
+	padding: 15px;
+}
+
+.curr{
+	padding: 15px;
+}
+.cart{
+	padding: 15px;
+}
+.search{
+	font-size:1.5rem;
+	padding: 15px;
+}
+input{
+	font-size:1.5rem;
+	background-color:#d4cac9;
+}
+.searchbut{
+	font-size:1.5rem;
+	background-color:#d4cac9;
 }
