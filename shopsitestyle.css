@@ -7,8 +7,14 @@ body{
 	margin: 0;
 	padding: 0;
 }
+a{
+	text-decoration: none;
+	text-decoration-color: #736d6c;
+	color: #736d6c;
+}
 .topbarcon{
 	display: flex;
+	flex-direction: row;
 	justify-content:flex-end;
 	align-items: center;
 	font-size:1.5rem;
@@ -45,4 +51,18 @@ input{
 .searchbut{
 	font-size:1.5rem;
 	background-color:#d4cac9;
+}
+nav{
+	display: flex;
+	flex-direction: row;
+	justify-content:flex-end;
+	align-items: center;
+	font-size:1.5rem;
+	background-color:#ffffff;
+	width: 75%;	
+	margin:0 auto;
+}
+.logo{
+	margin-right:auto;
+	font-size:1.5rem;
 }
