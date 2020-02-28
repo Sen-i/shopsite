@@ -64,5 +64,57 @@ nav{
 }
 .logo{
 	margin-right:auto;
-	font-size:1.5rem;
+}
+img{
+	height: 55px;
+	width: 161px;
+	}
+.home{
+	margin-left:15px;
+	padding: 10px;
+	border: 2px solid;
+	border-color: #ffffff;
+}
+.home:hover{
+	border: 2px solid;
+}
+.prod{
+	margin-left:15px;
+	padding: 10px;	
+	border: 2px solid;
+	border-color: #ffffff;
+}
+.prod:hover{
+	border: 2px solid;	
+}
+.sale{
+	margin-left:15px;
+	padding: 10px;
+	border: 2px solid;
+	border-color: #ffffff;	
+}
+.sale:hover{
+	border: 2px solid;
+}
+.abu{
+	padding: 10px;
+	margin-left:15px;
+	border: 2px solid;
+	border-color: #ffffff;	
+}
+.abu:hover{
+	border: 2px solid;
+}
+.conu{
+	padding: 10px;
+	margin-left:15px;
+	border: 2px solid;
+	border-color: #ffffff;
+}
+.conu:hover{
+	border: 2px solid;
+}
+nav{
+	padding-top: 30px;
+	padding-bottom: 30px;
 }
